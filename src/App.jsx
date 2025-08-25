@@ -130,7 +130,7 @@ class App extends Component {
             </div>
           </div>
         </section>
-        <footer>Copyright @ 2025. All rights reserved.</footer>
+        <footer>Copyright@2025. All rights reserved.</footer>
       </>
     );
   }
